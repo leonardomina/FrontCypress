@@ -74,12 +74,3 @@ npx cypress run
   6. Clicar no botão **"Adicionar ao carrinho"**;
   7. Validar que o produto foi adicionado ao carrinho com sucesso.
 
----
-
-## 📌 Conclusão
-
-Agora que o projeto está configurado, você pode executar os testes automaticamente para validar a experiência do usuário na loja virtual da **VR Benefícios**.
-
-Caso tenha dúvidas ou queira contribuir com melhorias, fique à vontade para abrir uma **issue** ou enviar um **pull request**.
-
-**🔎 Bons testes e boa automação! 🛒✅**
